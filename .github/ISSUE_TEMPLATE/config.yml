@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Preguntas y dudas
+    url: https://github.com/AndresStw/Diccionario-Programacion/discussions
+    about: Usa esta sección para hacer preguntas, compartir apuntes o proponer temas para la comunidad.
+  - name: Sugerir un contenido nuevo
+    url: https://github.com/AndresStw/Diccionario-Programacion/issues/new?template=feature_request.md
+    about: Propón un ejercicio, apunte o mini proyecto para la comunidad.
