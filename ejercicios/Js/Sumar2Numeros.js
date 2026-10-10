@@ -5,7 +5,7 @@
 /// Este script solo corre desde el navegador
 
 // Datos
-let Numero1, Numero2, Suma; // Declaramos las variables sin asignarles un valor inicial.
+let Numero1, Numero2, Suma; // Declaramos las variables sin asignarles un tipo de dato inicial.
 
 // Entrada
 Numero1 = Number(prompt("Ingrese el primer número:")); // Pedimos el número y convertimos la entrada a tipo Number.
