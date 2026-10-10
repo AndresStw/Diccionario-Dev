@@ -55,10 +55,10 @@ Cada ejercicio incluirá su enunciado, su diagrama de flujo y su archivo de pseu
 
 |  N.º  | Ejercicio                           | Tema                    |                 Solución                 |                    Diagrama de flujo                    |
 | :---: | ----------------------------------- | ----------------------- | :--------------------------------------: | :-----------------------------------------------------: |
-|  01   | Suma de dos números                 | Variables y operaciones |    [Ver código](./Sumar2Numeros.psc)     |    [🖼️ Ver diagrama](./diagramas/Sumar2Numeros.png)     |
-|  02   | Promedio de tres notas              | Operaciones aritméticas |   [Ver código](./PromedioDeNotas.psc)    |   [🖼️ Ver diagrama](./diagramas/PromedioDeNotas.png)    |
-|  03   | Conversor de centímetros a pulgadas | Fórmulas y conversiones | [Ver código](./CentimetrosApulgadas.psc) | [🖼️ Ver diagrama](./diagramas/CentimetrosApulgadas.png) |
-|  04   | ¿Me levanto o sigo durmiendo?       | Condicionales           | [Ver código](./DeLevantarseEstudiar.psc) | [🖼️ Ver diagrama](./diagramas/DeLevantarseEstudiar.png) |
+|  01   | Suma de dos números                 | Variables y operaciones |    [Ver código](./Sumar2Numeros.psc)     |    [🖼️ Ver diagrama](./Diagramas/Sumar2Numeros.png)     |
+|  02   | Promedio de tres notas              | Operaciones aritméticas |   [Ver código](./PromedioDeNotas.psc)    |   [🖼️ Ver diagrama](./Diagramas/PromedioDeNotas.png)    |
+|  03   | Conversor de centímetros a pulgadas | Fórmulas y conversiones | [Ver código](./CentimetrosApulgadas.psc) | [🖼️ Ver diagrama](./Diagramas/CentimetrosApulgadas.png) |
+|  04   | ¿Me levanto o sigo durmiendo?       | Condicionales           | [Ver código](./DeLevantarseEstudiar.psc) | [🖼️ Ver diagrama](./Diagramas/DeLevantarseEstudiar.png) |
 | 05–10 | Próximamente                        | Nuevos desafíos         |              En preparación              |                     En preparación                      |
 
 > 💡 **Nota:** Haz clic en _Ver código_ para consultar el pseudocódigo o en _Ver diagrama_ para abrir la imagen del algoritmo.
