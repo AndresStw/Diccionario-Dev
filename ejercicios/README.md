@@ -5,6 +5,7 @@ Este directorio está dedicado a ejercicios prácticos que pueden resolverse ind
 ## Categorías
 
 ### Básicos
+
 - Suma de dos números
 - Promedio de notas
 - Edad mayor o menor
@@ -12,6 +13,7 @@ Este directorio está dedicado a ejercicios prácticos que pueden resolverse ind
 - Arreglo de nombres
 
 ### Intermedios
+
 - Calculadora simple
 - Registro de estudiantes
 - Clase Persona con atributos
@@ -19,6 +21,7 @@ Este directorio está dedicado a ejercicios prácticos que pueden resolverse ind
 - Clase CuentaBancaria
 
 ### Proyectos pequeños
+
 - Lista de tareas
 - Sistema de notas
 - Mini agenda
@@ -27,6 +30,7 @@ Este directorio está dedicado a ejercicios prácticos que pueden resolverse ind
 ## Recomendación
 
 Cada ejercicio debe incluir:
+
 - enunciado
 - solución propuesta
 - explicación breve

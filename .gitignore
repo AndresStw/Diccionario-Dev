@@ -1,0 +1,100 @@
+# ==========================================
+# SECRETOS Y CREDENCIALES
+# ==========================================
+.env
+.env.*
+!.env.example
+!.env.example.*
+.env.local
+.env.*.local
+secrets/
+secrets.*
+credentials.json
+credentials.*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+
+# ==========================================
+# SISTEMA OPERATIVO
+# ==========================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# EDITORES E IDE
+# ==========================================
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# ==========================================
+# JAVA
+# ==========================================
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+/target/
+/build/
+.gradle/
+
+# ==========================================
+# JAVASCRIPT / NODE.JS
+# ==========================================
+node_modules/
+.npm/
+.pnpm-store/
+.npmrc.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+/dist/
+/.vite/
+coverage/
+
+# ==========================================
+# C# / .NET
+# ==========================================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+*.userprefs
+*.csproj.user
+
+# ==========================================
+# PYTHON (POR SI LO UTILIZAS DESPUES)
+# ==========================================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ==========================================
+# ARCHIVOS TEMPORALES Y RESPALDOS
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~

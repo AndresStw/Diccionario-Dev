@@ -1,20 +1,29 @@
 # Diccionario rápido de programación
 
+# Extenciones de archivos
+
+Java .java
+JavaScript .js
+C# .cs
+
 ## 1) Salida de datos
 
 ### Java
+
 ```java
 System.out.println("Hola");
 System.out.print("Hola");
 ```
 
 ### JavaScript
+
 ```javascript
 console.log("Hola");
-console.log('Hola');
+console.log("Hola");
 ```
 
 ### C#
+
 ```csharp
 Console.WriteLine("Hola");
 Console.Write("Hola");
@@ -23,6 +32,7 @@ Console.Write("Hola");
 ## 2) Entrada de datos
 
 ### Java
+
 ```java
 import java.util.Scanner;
 
@@ -33,6 +43,7 @@ double precio = sc.nextDouble();
 ```
 
 ### JavaScript
+
 ```javascript
 let nombre = prompt("Ingrese su nombre");
 let edad = parseInt(prompt("Ingrese su edad"));
@@ -40,6 +51,7 @@ let precio = parseFloat(prompt("Ingrese el precio"));
 ```
 
 ### C#
+
 ```csharp
 string nombre = Console.ReadLine();
 int edad = int.Parse(Console.ReadLine());
@@ -49,6 +61,7 @@ double precio = double.Parse(Console.ReadLine());
 ## 3) Variables
 
 ### Java
+
 ```java
 String nombre = "Andres";
 int edad = 20;
@@ -57,14 +70,16 @@ boolean activo = true;
 ```
 
 ### JavaScript
+
 ```javascript
 let nombre = "Andres";
 let edad = 20;
-let precio = 1500.50;
+let precio = 1500.5;
 let activo = true;
 ```
 
 ### C#
+
 ```csharp
 string nombre = "Andres";
 int edad = 20;
@@ -75,16 +90,19 @@ bool activo = true;
 ## 4) Constantes
 
 ### Java
+
 ```java
 final int MAX = 10;
 ```
 
 ### JavaScript
+
 ```javascript
 const MAX = 10;
 ```
 
 ### C#
+
 ```csharp
 const int MAX = 10;
 ```
@@ -92,6 +110,7 @@ const int MAX = 10;
 ## 5) Condicionales
 
 ### Java
+
 ```java
 if (edad >= 18) {
     System.out.println("Mayor de edad");
@@ -101,15 +120,17 @@ if (edad >= 18) {
 ```
 
 ### JavaScript
+
 ```javascript
 if (edad >= 18) {
-    console.log("Mayor de edad");
+  console.log("Mayor de edad");
 } else {
-    console.log("Menor de edad");
+  console.log("Menor de edad");
 }
 ```
 
 ### C#
+
 ```csharp
 if (edad >= 18) {
     Console.WriteLine("Mayor de edad");
@@ -121,6 +142,7 @@ if (edad >= 18) {
 ## 6) Ciclos for
 
 ### Java
+
 ```java
 for (int i = 0; i < 5; i++) {
     System.out.println(i);
@@ -128,13 +150,15 @@ for (int i = 0; i < 5; i++) {
 ```
 
 ### JavaScript
+
 ```javascript
 for (let i = 0; i < 5; i++) {
-    console.log(i);
+  console.log(i);
 }
 ```
 
 ### C#
+
 ```csharp
 for (int i = 0; i < 5; i++) {
     Console.WriteLine(i);
@@ -144,6 +168,7 @@ for (int i = 0; i < 5; i++) {
 ## 7) Ciclos while
 
 ### Java
+
 ```java
 int i = 0;
 while (i < 5) {
@@ -153,15 +178,17 @@ while (i < 5) {
 ```
 
 ### JavaScript
+
 ```javascript
 let i = 0;
 while (i < 5) {
-    console.log(i);
-    i++;
+  console.log(i);
+  i++;
 }
 ```
 
 ### C#
+
 ```csharp
 int i = 0;
 while (i < 5) {
@@ -173,18 +200,21 @@ while (i < 5) {
 ## 8) Arreglos
 
 ### Java
+
 ```java
 int[] numeros = {1, 2, 3, 4};
 System.out.println(numeros[0]);
 ```
 
 ### JavaScript
+
 ```javascript
 let numeros = [1, 2, 3, 4];
 console.log(numeros[0]);
 ```
 
 ### C#
+
 ```csharp
 int[] numeros = { 1, 2, 3, 4 };
 Console.WriteLine(numeros[0]);
@@ -193,6 +223,7 @@ Console.WriteLine(numeros[0]);
 ## 9) Funciones / métodos
 
 ### Java
+
 ```java
 public static int sumar(int a, int b) {
     return a + b;
@@ -200,13 +231,15 @@ public static int sumar(int a, int b) {
 ```
 
 ### JavaScript
+
 ```javascript
 function sumar(a, b) {
-    return a + b;
+  return a + b;
 }
 ```
 
 ### C#
+
 ```csharp
 static int Sumar(int a, int b) {
     return a + b;
@@ -216,6 +249,7 @@ static int Sumar(int a, int b) {
 ## 10) Clases básicas
 
 ### Java
+
 ```java
 class Persona {
     private String nombre;
@@ -231,19 +265,21 @@ class Persona {
 ```
 
 ### JavaScript
+
 ```javascript
 class Persona {
-    constructor(nombre) {
-        this.nombre = nombre;
-    }
+  constructor(nombre) {
+    this.nombre = nombre;
+  }
 
-    saludar() {
-        console.log("Hola, soy " + this.nombre);
-    }
+  saludar() {
+    console.log("Hola, soy " + this.nombre);
+  }
 }
 ```
 
 ### C#
+
 ```csharp
 class Persona {
     private string nombre;
@@ -261,6 +297,7 @@ class Persona {
 ## 11) Resumen final
 
 La lógica de programación es la misma en los 3 lenguajes:
+
 - variables
 - condicionales
 - ciclos
