@@ -53,13 +53,18 @@ Cada ejercicio incluirá su enunciado, su diagrama de flujo y su archivo de pseu
 
 ## 🧠 Ejercicios de PSeInt
 
-|  N.º  | Ejercicio                           | Tema                    |                 Solución                 |                    Diagrama de flujo                    |
-| :---: | ----------------------------------- | ----------------------- | :--------------------------------------: | :-----------------------------------------------------: |
-|  01   | Suma de dos números                 | Variables y operaciones |    [Ver código](./Sumar2Numeros.psc)     |    [🖼️ Ver diagrama](./Diagramas/Sumar2Numeros.png)     |
-|  02   | Promedio de tres notas              | Operaciones aritméticas |   [Ver código](./PromedioDeNotas.psc)    |   [🖼️ Ver diagrama](./Diagramas/PromedioDeNotas.png)    |
-|  03   | Conversor de centímetros a pulgadas | Fórmulas y conversiones | [Ver código](./CentimetrosApulgadas.psc) | [🖼️ Ver diagrama](./Diagramas/CentimetrosApulgadas.png) |
-|  04   | ¿Me levanto o sigo durmiendo?       | Condicionales           | [Ver código](./DeLevantarseEstudiar.psc) | [🖼️ Ver diagrama](./Diagramas/DeLevantarseEstudiar.png) |
-| 05–10 | Próximamente                        | Nuevos desafíos         |              En preparación              |                     En preparación                      |
+| N.º | Ejercicio                           | Tema                                                   |                    Solución                     |                       Diagrama de flujo                        |
+| :-: | ----------------------------------- | ------------------------------------------------------ | :---------------------------------------------: | :------------------------------------------------------------: |
+| 01  | Suma de dos números                 | Variables y operaciones                                |       [Ver código](./Sumar_2_Numeros.psc)       |       [🖼️ Ver diagrama](./Diagramas/Sumar_2_Numeros.png)       |
+| 02  | Promedio de tres notas              | Operaciones aritméticas                                |      [Ver código](./Promedio_De_Notas.psc)      |      [🖼️ Ver diagrama](./Diagramas/Promedio_De_Notas.png)      |
+| 03  | Conversor de centímetros a pulgadas | Fórmulas y conversiones                                |   [Ver código](./Centimetros_A_pulgadas.psc)    |   [🖼️ Ver diagrama](./Diagramas/Centimetros_A_pulgadas.png)    |
+| 04  | ¿Eres mayor de edad?                | Condicionales                                          |     [Ver código](./Eres_mayor_de_edad.psc)      |     [🖼️ Ver diagrama](./Diagramas/Eres_mayor_de_edad.png)      |
+| 05  | Número par o impar                  | Operadores y condicionales                             |     [Ver código](./Numero_par_o_impar.psc)      |     [🖼️ Ver diagrama](./Diagramas/Numero_par_o_impar.png)      |
+| 06  | El número mayor                     | Comparaciones                                          |       [Ver código](./El_numero_mayor.psc)       |       [🖼️ Ver diagrama](./Diagramas/El_numero_mayor.png)       |
+| 07  | ¿Me levanto o sigo durmiendo?       | Condicionales                                          | [Ver código](./Me_levanto_o_sigo_durmiendo.psc) | [🖼️ Ver diagrama](./Diagramas/Me_levanto_o_sigo_durmiendo.png) |
+| 08  | Tabla de multiplicar                | Ciclos                                                 |    [Ver código](./Tabla_de_multiplicar.psc)     |    [🖼️ Ver diagrama](./Diagramas/Tabla_de_multiplicar.png)     |
+| 09  | Ahorro semanal                      | Acumuladores y ciclos, si tu solución suma los ahorros |       [Ver código](./Ahorro_semanal.psc)        |       [🖼️ Ver diagrama](./Diagramas/Ahorro_semanal.png)        |
+| 10  | Adivina el número                   | Ciclos y condicionales                                 |      [Ver código](./Adivina_el_numero.psc)      |      [🖼️ Ver diagrama](./Diagramas/Adivina_el_numero.png)      |
 
 > 💡 **Nota:** Haz clic en _Ver código_ para consultar el pseudocódigo o en _Ver diagrama_ para abrir la imagen del algoritmo.
 
