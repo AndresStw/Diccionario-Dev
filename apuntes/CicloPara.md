@@ -12,6 +12,8 @@ Sería demasiado trabajo.
 
 Para eso existen los **ciclos o bucles**: estructuras que permiten repetir instrucciones sin tener que escribirlas una y otra vez.
 
+<!-- Revisas si muevo la imagen a otro lado por el momento se quda aca. -->
+
 ![Infografía sobre los ciclos y la repetición en programación](./imagenes/CicloPara.png)
 
 ## 🔄 ¿Qué es el ciclo `Para`?
@@ -78,7 +80,7 @@ Repeticion numero: 5
 ```
 
 ¡Y todo eso con unas pocas líneas de código! 🔥
-¡Pruebalo y me cuentas! ;)
+Pruébalo y me cuentas ;)
 
 ## ➕ Ejemplo 2: sumar los números del 1 al 10
 

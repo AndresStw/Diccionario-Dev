@@ -28,6 +28,6 @@ Algoritmo PromedioDeNotas
 	 //Su promedio es de: ?
 	
 	
-	//Nota: Se agrego utra variable (suma) ya que primero necesitamos sumar todas las notas , luego de eso con el resultado optenido hacemos la divicion.
+	//Nota: Se agrego otra variable (suma) ya que primero necesitamos sumar todas las notas , luego de eso con el resultado optenido hacemos la divicion.
 	
 FinAlgoritmo

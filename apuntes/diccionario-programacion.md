@@ -1,6 +1,6 @@
 # Diccionario rápido de programación
 
-# Extenciones de archivos
+# Extensiones de archivos
 
 Java .java
 JavaScript .js
@@ -18,7 +18,6 @@ System.out.print("Hola");
 ### JavaScript
 
 ```javascript
-console.log("Hola");
 console.log("Hola");
 ```
 

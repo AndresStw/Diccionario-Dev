@@ -1,6 +1,6 @@
 // Author: AndresStw
 Algoritmo Ahorro_semanal
-	// Enunciado: Pregunta cuánto dinero ahorras cada semana y durante cuántas semanas. Calcula el ahorro total.
+	// Enunciado: Pregunta cuanto dinero ahorras cada semana y durante cuantas semanas. Calcula el ahorro total.
 	
 	// Datos
 	// Declarar variables

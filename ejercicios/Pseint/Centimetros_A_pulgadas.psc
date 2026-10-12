@@ -10,7 +10,7 @@ Algoritmo CentimetrosApulgadas
 	Leer alturaCentimetros; //Dato "Entrada" donde se almacena
 	
 	//Proceso 
-	alturaPulgadas = alturaCentimetros * 0.394; //Proceso cm a ft
+	alturaPulgadas = alturaCentimetros * 0.394;
 	
 	//Salida
 	Escribir "La altura en pulgadas es: ";

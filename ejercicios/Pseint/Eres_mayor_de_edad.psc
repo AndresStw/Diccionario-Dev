@@ -8,7 +8,7 @@ Algoritmo Eres_mayor_de_edad
 	Definir Edad Como Entero;
 	
 	// Entradas
-	// Solicitar información al usuario
+	// Solicitar informacion al usuario
 	Escribir 'Y ahora dime que edad tienes?: ';
 	Leer Edad;
 	

@@ -1,6 +1,6 @@
 // Author: AndresStw
 Algoritmo Adivina_el_numero
-	// Enunciado: Define un n�mero secreto y pide al usuario que intente adivinarlo. Indica si su respuesta es demasiado alta, demasiado baja o correcta. Repite hasta que acierte.
+	// Enunciado: Define un numero secreto y pide al usuario que intente adivinarlo. Indica si su respuesta es demasiado alta, demasiado baja o correcta. Repite hasta que acierte.
 	// Datos
 	// Declarar variables
 	Definir numeroSecreto Como Entero;

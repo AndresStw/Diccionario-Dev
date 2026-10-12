@@ -21,16 +21,14 @@ Por ejemplo, si quisiera crear un programa que sume dos números, la lógica ser
 3. Sumar ambos números.
 4. Mostrar el resultado en pantalla.
 
-  ### 🔗 El mismo ejercicio en diferentes lenguajes
+### 🔗 El mismo ejercicio en diferentes lenguajes
 
 Compara cómo resolvemos el mismo problema —sumar dos números— utilizando diferentes lenguajes de programación.
 
-- [🟢 Suma de dos números en PSeInt](../ejercicios/Pseint/Sumar2Numeros.psc)
+- [🟢 Suma de dos números en PSeInt](../ejercicios/Pseint/Sumar_2_Numeros.psc)
 - [☕ Suma de dos números en Java](../ejercicios/Java/Sumar2Numeros.java)
 - [🟨 Suma de dos números en JavaScript](../ejercicios/Js/Sumar2Numeros.js)
 - [🟣 Suma de dos números en C#](../ejercicios/C%23/Sumar2Numeros.cs)
-
-El objetivo es comparar cómo se construye la misma solución en diferentes lenguajes, identificando sus similitudes y diferencias de sintaxis, entrada de datos, operaciones y salida de resultados.
 
 El objetivo es comparar cómo se construye la misma solución en diferentes lenguajes, identificando sus similitudes, diferencias de sintaxis y formas de recibir datos, realizar operaciones y mostrar resultados.
 

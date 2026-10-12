@@ -29,7 +29,7 @@ namespace Algoritmo_sumar_2_numeros //namespace es para organizar nuestro códig
             suma = Numero1 + Numero2; // Operacion basica N1 + N2 = Suma
 
             // Salida
-            Console.WriteLine("La suma de los dos números es: " + suma); //Mostramos el resuldato en pantalla
+            Console.WriteLine("La suma de los dos números es: " + suma); //Mostramos el resultado en pantalla
         }
     }
 }

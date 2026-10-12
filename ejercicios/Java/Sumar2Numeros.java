@@ -23,7 +23,7 @@ public class Sumar2Numeros { // Nombre y inicio del archivo
 
         // Salida
         System.out.println("La suma de: " + numero1 + " + " + numero2 + " Es " + suma);// Mostras resultado en pantalla
-        entrada.close();// Esto es escencial para cerrar el escaner
+        entrada.close();// Esto es esencial para cerrar el escaner
 
     }
 

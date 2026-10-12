@@ -21,12 +21,12 @@ Este directorio está destinado a almacenar referencias rápidas, conceptos clav
 
 - [🟢 Apuntes de PSeInt](./PseintApuntes.md)
 - [☕ Apuntes de Java](./JavaApuntes.md)
-- [🟡 Apuntes de JavaScript](./JavaScriptApuntes.md)
-- [🔷 Apuntes de C#](./CSharpApuntes.md)
-  <!-- - [🆕 Apuntes de CSS](./Esperando ruta) -->
-  <!-- - [🆕 Apuntes de HTML](./Esperando ruta) -->
-  <!-- - [🆕 Apuntes de C++](./Esperando ruta) -->
-  <!-- - [🆕 Apuntes de SQL](./Esperando ruta) -->
+  <!-- - [🟡 Apuntes de JavaScript](./JavaScriptApuntes.md) -->
+  <!-- - [🔷 Apuntes de C#](./CSharpApuntes.md) -->
+    <!-- - [🆕 Apuntes de CSS](./Esperando ruta) -->
+    <!-- - [🆕 Apuntes de HTML](./Esperando ruta) -->
+    <!-- - [🆕 Apuntes de C++](./Esperando ruta) -->
+    <!-- - [🆕 Apuntes de SQL](./Esperando ruta) -->
 
 ---
 
