@@ -241,13 +241,13 @@ Algunas instalaciones de Java necesitan una variable `JAVA_HOME` que apunte a la
 
 Ejemplo de ruta ilustrativa:
 
-```text
+```
 JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-XX
 ```
 
 Después, algunas herramientas pueden utilizar esta entrada en `Path`:
 
-```text
+```
 %JAVA_HOME%\bin
 ```
 

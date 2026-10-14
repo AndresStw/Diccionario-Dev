@@ -68,7 +68,7 @@ Console.Write("de nuevo");
 
 Resultado:
 
-```text
+```
 Hola de nuevo
 ```
 

@@ -58,8 +58,6 @@ Tú escribes El compilador La JVM traduce
 código Java → lo convierte → a cada sistema
 (HolaMundo.java) (HolaMundo.class) (Win/Mac/Linux)
 
-text
-
 > 🎯 **Por eso Java se usa en bancos, empresas y apps Android.** Porque el mismo código sirve en todos lados.
 
 ---
@@ -102,8 +100,6 @@ MiProyecto/
 │ │ └── Persona.java
 ├── bin/ ← archivos compilados (.class)
 └── lib/ ← librerías externas (si usas)
-
-text
 
 ### 📦 ¿Qué es un "package"?
 

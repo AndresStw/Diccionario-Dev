@@ -217,7 +217,7 @@ Console.WriteLine(jugador.Vida);
 
 Resultado:
 
-```text
+```
 80
 ```
 

@@ -98,3 +98,11 @@ venv/
 *.swp
 *.swo
 *~
+# ==========================================
+# ARCHIVOS PERSONALES / NO SUBIR
+# ==========================================
+ESTRUCTURA.md
+_estructura.md
+notas-privadas.md
+TODO-local.md
+*.local.md

@@ -1,10 +1,12 @@
 # 🔁 Ciclo `Para` en PSeInt
 
-llegó la hora de dejar de repetir código como si no hubiera un mañana!
+Llegó la hora de dejar de repetir código como si no hubiera un mañana!
+
+---
 
 ## 🧠 ¿Qué es un ciclo?
 
-Imagina que necesitas mostrar un mensaje diez veces en pantalla.
+Imagina que necesitas mostrar un mensaje diez veces en pantalla.🤔
 
 Podrías escribir diez instrucciones `Escribir`, una debajo de la otra. Pero ¿qué pasaría si necesitas mostrarlo 100 o 1.000 veces?
 
@@ -12,9 +14,11 @@ Sería demasiado trabajo.
 
 Para eso existen los **ciclos o bucles**: estructuras que permiten repetir instrucciones sin tener que escribirlas una y otra vez.
 
-<!-- Revisas si muevo la imagen a otro lado por el momento se quda aca. -->
+Mira esto...👀
 
-![Infografía sobre los ciclos y la repetición en programación](./imagenes/CicloPara.png)
+## ![Infografía sobre los ciclos y la repetición en programación](../pseint/imagenes/ciclo-para.png)
+
+---
 
 ## 🔄 ¿Qué es el ciclo `Para`?
 
@@ -70,7 +74,7 @@ FinAlgoritmo
 
 La salida será:
 
-```text
+```
 Repeticion numero: 1
 Repeticion numero: 2
 Repeticion numero: 3
@@ -81,6 +85,8 @@ Repeticion numero: 5
 
 ¡Y todo eso con unas pocas líneas de código! 🔥
 Pruébalo y me cuentas ;)
+
+> ¿Te da curiosidad cómo se ve este mismo ejemplo en Java? Mira esto: [Ejemplo CicloFor en Java](../../ejercicios/java/soluciones/CicloFor.java)
 
 ## ➕ Ejemplo 2: sumar los números del 1 al 10
 
@@ -163,3 +169,5 @@ Si necesitas repetir instrucciones mientras una condición se cumpla y no sabes 
 ---
 
 _Apunte creado para aprender lógica de programación paso a paso en Diccionario-Dev._
+
+<!-- Ultima verificación 12-Oct-2026 12:14pm  -->

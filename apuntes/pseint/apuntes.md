@@ -25,10 +25,10 @@ Por ejemplo, si quisiera crear un programa que sume dos números, la lógica ser
 
 Compara cómo resolvemos el mismo problema —sumar dos números— utilizando diferentes lenguajes de programación.
 
-- [🟢 Suma de dos números en PSeInt](../ejercicios/Pseint/Sumar_2_Numeros.psc)
-- [☕ Suma de dos números en Java](../ejercicios/Java/Sumar2Numeros.java)
-- [🟨 Suma de dos números en JavaScript](../ejercicios/Js/Sumar2Numeros.js)
-- [🟣 Suma de dos números en C#](../ejercicios/C%23/Sumar2Numeros.cs)
+- [🟢 Suma de dos números en PSeInt](../../ejercicios/pseint/soluciones/sumar-dos-numeros.psc)
+- [☕ Suma de dos números en Java](../../ejercicios/Java/soluciones/Sumar2Numeros.java)
+- [🟨 Suma de dos números en JavaScript](../../ejercicios/javascript/soluciones/sumar-dos-numeros.js)
+- [🟣 Suma de dos números en C#](../../ejercicios/csharp/soluciones/Sumar2Numeros.cs)
 
 El objetivo es comparar cómo se construye la misma solución en diferentes lenguajes, identificando sus similitudes, diferencias de sintaxis y formas de recibir datos, realizar operaciones y mostrar resultados.
 
@@ -183,7 +183,7 @@ FinAlgoritmo
 
 El programa mostrará:
 
-```text
+```
 La caja contiene 12 chocolates.
 ```
 

@@ -1,3 +1,4 @@
+package soluciones;
 //Author: AndresStw
 
 import java.util.Scanner; //Esto es super importante cargamos la libreria basica para usar el (leer) en Pseint

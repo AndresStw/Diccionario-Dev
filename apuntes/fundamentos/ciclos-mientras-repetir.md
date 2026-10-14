@@ -50,7 +50,7 @@ FinAlgoritmo
 
 La salida será:
 
-```text
+```
 1
 2
 3
@@ -95,7 +95,7 @@ FinAlgoritmo
 
 La salida también será:
 
-```text
+```
 1
 2
 3

@@ -124,7 +124,7 @@ Cuando crees un ejercicio, una guía o una solución para este repositorio, iden
 
 Por ejemplo:
 
-```text
+```
 Autor: AndresStw
 Lenguaje: C#
 Tema: Condicionales

@@ -1,0 +1,33 @@
+name: Validar links
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "**.md"
+  pull_request:
+    branches: [main, master]
+    paths:
+      - "**.md"
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  schedule:
+    # "OJO "Se ejecuta todos los lunes a las 6:00 UTC
+    # (para detectar links externos que dejaron de funcionar con el tiempo)
+    - cron: "0 6 * * 1"
+
+jobs:
+  validar-links:
+    name: Verificar links de Markdown
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: 🔍 Validar links con markdown-link-check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: ".github/mlc_config.json"
+          use-quiet-mode: "no"
+          use-verbose-mode: "yes"
+          check-modified-files-only: "no"

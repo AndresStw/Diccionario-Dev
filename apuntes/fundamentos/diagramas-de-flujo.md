@@ -1,10 +1,10 @@
-# Diagramas de flujo
+# 📊 Diagramas de flujo
 
 > Antes de construir algo, viene bien tener un plan. Un diagrama de flujo nos ayuda a organizar las ideas antes de comenzar a programar.
 
 ---
 
-## ¿Qué es un diagrama de flujo?
+## 🤔 ¿Qué es un diagrama de flujo?
 
 Un **diagrama de flujo** es una representación gráfica de un algoritmo o proceso. En lugar de escribir código, representamos la lógica con **símbolos conectados por flechas**, mostrando paso a paso qué hace el programa y en qué orden.
 
@@ -130,7 +130,7 @@ Un subproceso permite separar una tarea para organizar mejor el algoritmo y reut
 ```mermaid
 flowchart TD
     A([Inicio]) --> B[/Leer num/]
-    B --> C[[resultado = doble(num)]]
+    B --> C[["resultado = doble(num)"]]
     C --> D[/Escribir resultado/]
     D --> E([Fin])
 ```
@@ -207,4 +207,4 @@ Un diagrama a la vez. Un error a la vez. Un aprendizaje a la vez. 💻
 
 Y si algún día te sientes frustrado, haz una pausa y vuelve a intentarlo cuando estés listo. Aprender programación lleva tiempo, y cada ejercicio es una oportunidad para mejorar.
 
-[¿Comó detectar un error?](/apuntes/Como_Detectar_Errores.md)
+[¿Comó detectar un error?](../fundamentos/como-detectar-errores.md)
