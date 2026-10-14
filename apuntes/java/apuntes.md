@@ -286,4 +286,4 @@ La sintaxis viene **después**. Y cuando llegue, ya no será un idioma raro. Ser
 
 _Apunte reflexivo de Java creado para Diccionario-Dev. Si encuentras un error o quieres aportar, abre un Issue o un Pull Request._
 
-[Siguiente (Java Sintaxis) -> ](./JavaSintaxis.md)
+[Siguiente (Java Sintaxis) →](./sintaxis.md)

@@ -41,7 +41,7 @@ Podemos verlo como una versión visual del pseudocódigo. Por ejemplo, en lugar 
 | ⬤ Círculo pequeño   | **Conector**             | Permite conectar partes del diagrama cuando es necesario.                            |
 | → Flecha            | **Flujo**                | Indica la dirección en la que avanza el proceso.                                     |
 
-![Diagrama de ejemplo](../Diagramas/Numero_par_o_impar.png)
+![Diagrama de ejemplo](../../ejercicios/pseint/diagramas/numero-par-o-impar.png)
 
 > **Un detalle importante:** cada símbolo tiene una función específica. Por ejemplo, `Leer` suele representarse con un paralelogramo, mientras que una suma se representa con un rectángulo.
 >

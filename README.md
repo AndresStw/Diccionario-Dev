@@ -28,14 +28,14 @@ Con el tiempo iremos agregando más lenguajes, herramientas y recursos.
 
 ## 📂 Estructura del repositorio
 
-| Carpeta o archivo | ¿Qué encontrarás? |
-|---|---|
-| [`apuntes/`](./apuntes/README.md) | Conceptos, guías, referencias y notas de estudio. |
-| [`ejercicios/`](./ejercicios/README.md) | Ejercicios y desafíos organizados por lenguaje. |
-| [`proyectos/`](./proyectos/README.md) | Mini proyectos individuales y colaborativos. |
-| [`comunidad/`](./comunidad/README.md) | Guías, reglas y recursos para participar. |
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Instrucciones para colaborar con el repositorio. |
-| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | Normas para mantener una comunidad respetuosa. |
+| Carpeta o archivo                                      | ¿Qué encontrarás?                                    |
+| ------------------------------------------------------ | ---------------------------------------------------- |
+| [`apuntes/`](./apuntes/README.md)                      | Conceptos, guías, referencias y notas de estudio.    |
+| [`ejercicios/`](./ejercicios/README.md)                | Ejercicios y desafíos organizados por lenguaje.      |
+| [`proyectos/`](./proyectos/README.md)                  | Mini proyectos individuales y colaborativos.         |
+| [`comunidad/`](./comunidad/README.md)                  | Guías, reglas y recursos para participar.            |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md)                 | Instrucciones para colaborar con el repositorio.     |
+| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)           | Normas para mantener una comunidad respetuosa.       |
 | [`.github/ISSUE_TEMPLATE/`](./.github/ISSUE_TEMPLATE/) | Plantillas para reportar errores y proponer mejoras. |
 
 ---
@@ -48,7 +48,7 @@ Con el tiempo iremos agregando más lenguajes, herramientas y recursos.
 
 Consulta los atajos de código, abreviaciones y consejos para trabajar con Java.
 
-👉 [**Ver trucos de Java**](./ejercicios/Java/TruquitosDeJava.md)
+👉 [**Ver trucos de Java**](./apuntes/java/truquitos.md)
 
 ### 🧰 La Santa Trinidad de VS Code
 
@@ -58,15 +58,15 @@ Tres herramientas que ayudan a que nuestro editor se vea mejor y sea más cómod
 - ✨ **Prettier:** da formato al código para mantenerlo ordenado.
 - 🌈 **Color Highlight:** muestra visualmente los colores escritos en el código.
 
-👉 [**Ver la guía de la Santa Trinidad**](./apuntes/La_Santa_Trinidad_de_VS_Code.md)
+👉 [**Ver la guía de la Santa Trinidad**](./apuntes/setup/santa-trinidad-vscode.md)
 
-*Porque el código puede tener errores, pero al menos que se vea bonito mientras los encontramos.* 😂
+_Porque el código puede tener errores, pero al menos que se vea bonito mientras los encontramos._ 😂
 
 ### 🛠️ Prepara tu entorno de desarrollo
 
 ¿No sabes qué programas instalar o qué herramientas necesitas para empezar?
 
-👉 [**Consultar El Setup del Programador**](./apuntes/ELsetupdelProgramador.md)
+👉 [**Consultar El Setup del Programador**](./apuntes/setup/setup-del-programador.md)
 
 En esta guía encontrarás herramientas y recomendaciones para configurar tu entorno de trabajo.
 
@@ -162,4 +162,4 @@ Si acabas de llegar, te recomendamos esta ruta:
 
 **Programación Rápida — Aprendemos juntos, programamos juntos y crecemos juntos.** 💙
 
-*Escribe código, rompe cosas, encuentra el error, aprende y repite.* 😂
+_Escribe código, rompe cosas, encuentra el error, aprende y repite._ 😂
