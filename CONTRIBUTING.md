@@ -5,6 +5,7 @@ Gracias por querer aportar a este repositorio. Este espacio está pensado para c
 ## ¿Qué tipo de contribución aceptamos?
 
 Puedes colaborar con:
+
 - correcciones de apuntes
 - nuevos ejemplos de sintaxis
 - ejercicios para practicar
@@ -32,6 +33,7 @@ Usa la carpeta adecuada según tu aporte:
 ## Convenciones para ramas
 
 Usa nombres descriptivos, por ejemplo:
+
 - `docs/apuntes-java`
 - `feature/ejercicio-condicionales`
 - `project/calculadora-basica`
@@ -39,6 +41,7 @@ Usa nombres descriptivos, por ejemplo:
 ## Convenciones para commits
 
 Mantén mensajes claros y breves, por ejemplo:
+
 - `Agregar apuntes de variables en Java`
 - `Crear ejercicios de condicionales`
 - `Documentar guía de colaboración`
@@ -54,6 +57,7 @@ Mantén mensajes claros y breves, por ejemplo:
 ## Antes de abrir un PR
 
 Revisa lo siguiente:
+
 - ¿El contenido está en la carpeta correcta?
 - ¿Tiene un nombre claro?
 - ¿Está bien documentado?

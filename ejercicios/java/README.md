@@ -20,12 +20,12 @@ La idea es simple: **la misma lógica, distinta sintaxis.** Si ya sabes resolver
 
 ```
 
-ejercicios/Java/
-├── README.md ← este archivo
-└── soluciones/ ← código fuente de cada ejercicio
-├── Sumar2Numeros.java
-├── CicloFor.java
-└── TablaMultiplicar.java
+ejercicios/java/
+├── README.md
+└── soluciones/
+    ├── Sumar2Numeros.java
+    ├── CicloFor.java
+    └── TablaMultiplicar.java
 
 ```
 

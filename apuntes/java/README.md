@@ -61,7 +61,7 @@ Truquitos de Java ← optimiza tu flujo
 
 ## 🔗 Enlaces útiles
 
-- [📂 Ejercicios de Java](../../ejercicios/Java/README.md)
+- [📂 Ejercicios de Java](../../ejercicios/java/README.md)
 - [📘 Documentación oficial de Java](https://dev.java/)
 - [☕ Descargar JDK](https://adoptium.net/)
 

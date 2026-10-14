@@ -153,9 +153,9 @@ Si acabas de llegar, te recomendamos esta ruta:
 
 1. 📚 Explora los [apuntes](./apuntes/README.md).
 2. 💻 Resuelve algunos [ejercicios](./ejercicios/README.md).
-3. ⚡ Aprende trucos con la [guía de Java](./ejercicios/Java/TruquitosDeJava.md).
-4. 🧰 Mejora tu entorno con [El Setup del Programador](./apuntes/ELsetupdelProgramador.md).
-5. 🎨 Descubre la [Santa Trinidad de VS Code](./apuntes/La_Santa_Trinidad_de_VS_Code.md).
+3. ⚡ Aprende trucos con la [guía de Java](./apuntes/java/truquitos.md).
+4. 🧰 Mejora tu entorno con [El Setup del Programador](./apuntes/setup/setup-del-programador.md).
+5. 🎨 Descubre la [Santa Trinidad de VS Code](./apuntes/setup/santa-trinidad-vscode.md).
 6. 🤝 Revisa cómo [contribuir](./CONTRIBUTING.md) y comparte tu primer aporte.
 
 ---

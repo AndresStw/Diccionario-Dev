@@ -26,7 +26,7 @@ Por ejemplo, si quisiera crear un programa que sume dos números, la lógica ser
 Compara cómo resolvemos el mismo problema —sumar dos números— utilizando diferentes lenguajes de programación.
 
 - [🟢 Suma de dos números en PSeInt](../../ejercicios/pseint/soluciones/sumar-dos-numeros.psc)
-- [☕ Suma de dos números en Java](../../ejercicios/Java/soluciones/Sumar2Numeros.java)
+- [☕ Suma de dos números en Java](../../ejercicios/java/soluciones/Sumar2Numeros.java)
 - [🟨 Suma de dos números en JavaScript](../../ejercicios/javascript/soluciones/sumar-dos-numeros.js)
 - [🟣 Suma de dos números en C#](../../ejercicios/csharp/soluciones/Sumar2Numeros.cs)
 

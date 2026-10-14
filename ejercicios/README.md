@@ -44,7 +44,7 @@ La colección completa de mis primeros ejercicios de lógica de programación.
 
 Estoy traduciendo los ejercicios de PSeInt a Java, uno por uno.
 
-- [📂 Ver ejercicios de Java](./Java/README.md)
+- [📂 Ejercicios de Java](../../ejercicios/java/README.md)
 
 **Ejercicios disponibles:**
 

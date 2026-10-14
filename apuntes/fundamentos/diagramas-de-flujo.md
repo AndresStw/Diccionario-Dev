@@ -119,7 +119,7 @@ flowchart TD
 >
 > Cuando `i` llega a 11, la condición `i <= 10` deja de cumplirse y el algoritmo termina.
 >
-> Si un ciclo no tiene una forma de finalizar, puede convertirse en un **bucle infinito**. Por eso es importante revisar tanto la condición como los cambios que ocurren durante cada repetición [Referancia]().
+> Si un ciclo no tiene una forma de finalizar, puede convertirse en un **bucle infinito**. Por eso es importante revisar tanto la condición como los cambios que ocurren durante cada repetición. Puedes leer más sobre esto en [cómo detectar errores](./como-detectar-errores.md).
 
 ---
 
