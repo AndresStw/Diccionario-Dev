@@ -1,165 +1,215 @@
-# 💻 Programación Rápida
+<div align="center">
 
-¡Bienvenido a **Programación Rápida**! 🚀
+# 📚 Diccionario-Dev
 
-Este es un espacio para aprender, practicar y colaborar con ejercicios, apuntes, trucos de programación y pequeños proyectos.
+### 🚀 Aprende a programar desde cero sin perder el humor
 
-La idea es construir una comunidad donde podamos compartir lo que aprendemos, ayudarnos entre desarrolladores y mejorar nuestras habilidades programando juntos.
+**Apuntes, ejercicios, evaluaciones y proyectos en PSeInt, Java, C# y JavaScript.**
 
-**No necesitas ser un experto para contribuir.** Si estás aprendiendo, ya tienes algo que aportar.
+[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+[![Idioma: Español](https://img.shields.io/badge/Idioma-Español-red.svg?style=for-the-badge)](#)
+[![Estado](https://img.shields.io/badge/Estado-En%20progreso-brightgreen.svg?style=for-the-badge)](#)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Bienvenidos-blue.svg?style=for-the-badge)](./CONTRIBUTING.md)
+
+[![GitHub Stars](https://img.shields.io/github/stars/AndresStw/Diccionario-Dev?style=social)](https://github.com/AndresStw/Diccionario-Dev/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/AndresStw/Diccionario-Dev?style=social)](https://github.com/AndresStw/Diccionario-Dev/network/members)
+[![GitHub Contributors](https://img.shields.io/github/contributors/AndresStw/Diccionario-Dev?style=social)](https://github.com/AndresStw/Diccionario-Dev/graphs/contributors)
+
+</div>
 
 ---
 
-## 🎯 Objetivo del repositorio
+## 🎯 ¿Qué es Diccionario-Dev?
 
-Crear un espacio colaborativo para:
+Un espacio **educativo y colaborativo** para aprender a programar de verdad. Sin humo, sin teoría infinita, sin tutoriales de 4 horas que nunca terminas.
 
-- 📚 Consultar apuntes y referencias rápidas.
-- 💻 Practicar sintaxis de Java, JavaScript y C#.
-- 🧠 Resolver ejercicios paso a paso.
-- ⚡ Descubrir atajos de teclado y trucos de programación.
-- 🛠️ Conocer herramientas que mejoran nuestro entorno de desarrollo.
-- 🤝 Crear mini proyectos individuales y colaborativos.
-- 🌱 Aprender en comunidad y compartir feedback.
+Aquí vas a encontrar **apuntes con humor**, **ejercicios reales**, **evaluaciones calificables** y **proyectos prácticos** que puedes seguir paso a paso.
 
-Con el tiempo iremos agregando más lenguajes, herramientas y recursos.
+No es una enciclopedia. Es un **cuaderno de campo** escrito desde la trinchera. Con errores, aprendizajes y esa dosis de humor que hace que aprender no sea tan pesado. 😅
+
+> 💡 **Filosofía:** No memorices código. Entiende cómo funciona. La sintaxis se olvida. La lógica se entrena durante años.
+
+---
+
+## 🚀 Por dónde empezar
+
+Elige tu ruta según tu nivel:
+
+<div align="center">
+
+|                  🟢 Soy principiante                  |             🟡 Ya tengo bases              |              🔴 Quiero practicar               |
+| :---------------------------------------------------: | :----------------------------------------: | :--------------------------------------------: |
+|             Empieza desde cero con PSeInt             |           Salta a Java, C# o JS            |       Resuelve ejercicios y evaluaciones       |
+| [**→ Empezar aquí**](./apuntes/fundamentos/README.md) | [**→ Ver lenguajes**](./apuntes/README.md) | [**→ Ver ejercicios**](./ejercicios/README.md) |
+
+</div>
 
 ---
 
 ## 📂 Estructura del repositorio
 
-| Carpeta o archivo                                      | ¿Qué encontrarás?                                    |
-| ------------------------------------------------------ | ---------------------------------------------------- |
-| [`apuntes/`](./apuntes/README.md)                      | Conceptos, guías, referencias y notas de estudio.    |
-| [`ejercicios/`](./ejercicios/README.md)                | Ejercicios y desafíos organizados por lenguaje.      |
-| [`proyectos/`](./proyectos/README.md)                  | Mini proyectos individuales y colaborativos.         |
-| [`comunidad/`](./comunidad/README.md)                  | Guías, reglas y recursos para participar.            |
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md)                 | Instrucciones para colaborar con el repositorio.     |
-| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)           | Normas para mantener una comunidad respetuosa.       |
-| [`.github/ISSUE_TEMPLATE/`](./.github/ISSUE_TEMPLATE/) | Plantillas para reportar errores y proponer mejoras. |
+| Carpeta                                          | ¿Qué encontrarás?                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------- |
+| 📚 [`apuntes/`](./apuntes/README.md)             | Conceptos, guías y notas de estudio organizadas por tema y lenguaje. |
+| 🧪 [`ejercicios/`](./ejercicios/README.md)       | Ejercicios resueltos y retos para practicar.                         |
+| 📝 [`evaluaciones/`](./evaluaciones/README.md)   | Evaluaciones calificables con hoja de respuestas.                    |
+| 🛠️ [`proyectos/`](./proyectos/README.md)         | Mini proyectos individuales y colaborativos.                         |
+| 🎁 [`recursos/`](./recursos/programas/README.md) | Herramientas, programas y plantillas útiles.                         |
+| 🤝 [`comunidad/`](./comunidad/README.md)         | Guías para participar y contribuir.                                  |
+| 📜 [`CONTRIBUTING.md`](./CONTRIBUTING.md)        | Cómo colaborar con el proyecto.                                      |
+| 🛡️ [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)  | Normas de la comunidad.                                              |
 
 ---
 
-## ⚡ Accesos rápidos para programadores
+## 🧠 ¿Qué lenguajes cubrimos?
 
-¿Quieres programar más rápido sin escribir lo mismo mil veces? Aquí tienes recursos para mejorar tu flujo de trabajo.
+| Lenguaje          |     Estado     |              Apuntes              |                Ejercicios                |
+| ----------------- | :------------: | :-------------------------------: | :--------------------------------------: |
+| 🟢 **PSeInt**     |  ✅ Completo   | [Ver](./apuntes/pseint/README.md) |   [Ver](./ejercicios/pseint/README.md)   |
+| ☕ **Java**       | 🟡 En progreso |  [Ver](./apuntes/java/README.md)  |    [Ver](./ejercicios/java/README.md)    |
+| 🎮 **C#**         | 🟡 En progreso | [Ver](./apuntes/csharp/README.md) |   [Ver](./ejercicios/csharp/README.md)   |
+| 🟨 **JavaScript** | 🟡 En progreso |             🚧 Pronto             | [Ver](./ejercicios/javascript/README.md) |
+| 🗄️ **SQL**        |   🚧 Pronto    |             🚧 Pronto             |                🚧 Pronto                 |
+| 🌐 **HTML/CSS**   |   🚧 Pronto    |             🚧 Pronto             |                🚧 Pronto                 |
 
-### ☕ Atajos y trucos de Java
+**Próximos lenguajes planeados:** Python, C++, SQL.
 
-Consulta los atajos de código, abreviaciones y consejos para trabajar con Java.
+---
 
-👉 [**Ver trucos de Java**](./apuntes/java/truquitos.md)
+## ✨ Lo que hace especial este repo
 
-### 🧰 La Santa Trinidad de VS Code
+### 😂 Humor en los apuntes
 
-Tres herramientas que ayudan a que nuestro editor se vea mejor y sea más cómodo de utilizar:
+Nadie dijo que aprender a programar tenía que ser aburrido. Aquí vas a encontrar:
 
-- 🎨 **Material Icon Theme:** organiza visualmente los archivos con iconos.
-- ✨ **Prettier:** da formato al código para mantenerlo ordenado.
-- 🌈 **Color Highlight:** muestra visualmente los colores escritos en el código.
+> 🦨 _"Es el apestoso"_ — Luisito Comunica, 2026, Podcast The Wild Project #384, 40:05 min.
 
-👉 [**Ver la guía de la Santa Trinidad**](./apuntes/setup/santa-trinidad-vscode.md)
+_(No preguntes. Está en el apunte de Java. Búscalo.)_
 
-_Porque el código puede tener errores, pero al menos que se vea bonito mientras los encontramos._ 😂
+### 🎯 Estructura pedagógica clara
 
-### 🛠️ Prepara tu entorno de desarrollo
+Cada ejercicio y apunte usa el mismo formato para que no te pierdas:
 
-¿No sabes qué programas instalar o qué herramientas necesitas para empezar?
+```text
+// Datos      → qué variables necesitas
+// Entradas   → qué le pides al usuario
+// Procesos   → qué cálculos haces
+// Salidas    → qué muestras en pantalla
+```
 
-👉 [**Consultar El Setup del Programador**](./apuntes/setup/setup-del-programador.md)
+Esa estructura la repites en **todos los lenguajes**, para que veas que **la lógica es la misma** y solo cambia la sintaxis.
 
-En esta guía encontrarás herramientas y recomendaciones para configurar tu entorno de trabajo.
+### 📊 Comparaciones entre lenguajes
 
-### 📖 Explora los apuntes
+Aquí no aprendes un lenguaje aislado. Aprendes a **pensar en varios a la vez**:
 
-👉 [**Ir a los apuntes de programación**](./apuntes/README.md)
+```java
+// Java
+System.out.println("Hola, mundo");
+```
 
-Conceptos, explicaciones y referencias para consultar cuando la memoria RAM del cerebro decida dejar de colaborar.
+```csharp
+// C#
+Console.WriteLine("Hola, mundo");
+```
+
+```javascript
+// JavaScript
+console.log("Hola, mundo");
+```
+
+**Un concepto, tres sintaxis.** Así se aprende más rápido.
+
+---
+
+## 🗺️ Roadmap visual
+
+```text
+🟢 FASE 1 — Fundamentos (Completado)
+   ├── Variables, condicionales, ciclos
+   ├── PSeInt con 10 ejercicios
+   └── Diagramas de flujo
+
+🟡 FASE 2 — Lenguajes reales (En progreso)
+   ├── Java (3/10 ejercicios) ✅
+   ├── C# (1/10 ejercicios) 🚧
+   └── JavaScript (1/10 ejercicios) 🚧
+
+🔴 FASE 3 — Contenido avanzado (Próximamente)
+   ├── Programación Orientada a Objetos
+   ├── Bases de datos (SQL)
+   └── Proyectos completos
+
+⚫ FASE 4 — Comunidad (Futuro)
+   ├── Contribuciones externas
+   ├── Más lenguajes (Python, C++)
+   └── Desafíos mensuales
+```
 
 ---
 
 ## 🤝 ¿Cómo colaborar?
 
-¡Este repositorio también es tuyo si quieres ayudar a construirlo!
+**No necesitas ser experto.** Si estás aprendiendo, ya tienes algo que aportar. Corregir una explicación, añadir un ejercicio o mejorar un ejemplo también cuenta.
 
-Puedes contribuir aunque estés comenzando. No necesitas crear un proyecto enorme: corregir una explicación, agregar un ejercicio o mejorar un ejemplo también cuenta.
+### Pasos rápidos
 
-### Pasos para participar
+1. Haz **fork** del repositorio
+2. Crea una rama: `feature/nuevo-ejercicio` o `docs/mejorar-apunte`
+3. Agrega tu contenido
+4. Abre un **Pull Request**
 
-1. Haz un **fork** del repositorio.
-2. Clona tu fork en tu computador.
-3. Crea una rama con un nombre claro, por ejemplo `feature/ejercicio-tabla` o `docs/apuntes-variables`.
-4. Agrega o mejora el contenido en la carpeta correspondiente.
-5. Realiza un commit con un mensaje descriptivo.
-6. Abre un **Pull Request** hacia el repositorio original.
-7. Revisa los comentarios y realiza mejoras si son necesarias.
-
-📌 Consulta la guía completa: [**Cómo colaborar**](./CONTRIBUTING.md).
+📌 Consulta la guía completa: [**Cómo colaborar**](./CONTRIBUTING.md)
 
 ### 💡 ¿Qué puedes aportar?
 
-- Un ejercicio nuevo en Java, JavaScript, C# o PSeInt.
-- Una explicación más clara de un concepto.
-- Un atajo de teclado que te resulte útil.
-- Una herramienta que recomiendes.
-- Un mini proyecto para practicar.
-- Una corrección de código o documentación.
-- Una idea para mejorar el repositorio.
-
-**Toda contribución útil es bienvenida.**
+- 🧪 Un ejercicio nuevo en cualquier lenguaje
+- 📝 Una explicación más clara
+- ⚡ Un atajo de teclado útil
+- 🛠️ Una herramienta que recomiendes
+- 🚀 Un mini proyecto para practicar
+- 🐛 Una corrección de código o documentación
 
 ---
 
-## 🗺️ Roadmap de la comunidad
+## 💬 ¿Dónde conversamos?
 
-Estas son algunas de las metas que queremos ir alcanzando:
-
-- [ ] Organizar los apuntes por temas y niveles.
-- [ ] Crear más ejercicios para principiantes e intermedios.
-- [ ] Agregar soluciones explicadas paso a paso.
-- [ ] Ampliar los trucos y accesos rápidos por lenguaje.
-- [ ] Documentar herramientas útiles para programadores.
-- [ ] Crear mini proyectos colaborativos.
-- [ ] Publicar desafíos y preguntas en GitHub Discussions.
-- [ ] Incorporar nuevos lenguajes y tecnologías.
-- [ ] Conseguir que más estudiantes y desarrolladores participen.
-
-El roadmap puede cambiar según las ideas y necesidades de quienes colaboren.
-
----
-
-## 💬 ¿Dónde participamos?
-
-Para mantener el repositorio organizado, utilizaremos las herramientas de GitHub según el propósito:
-
-- **Discussions:** para dudas, debates, ideas y desafíos de programación, si están habilitadas en el repositorio.
-- **Issues:** para reportar errores y proponer mejoras.
-- **Pull Requests:** para revisar e incorporar nuevos aportes.
-- **Repositorio:** para consultar, estudiar y compartir el material disponible.
+- 💬 **Discussions** — dudas, debates, ideas y desafíos
+- 🐛 **Issues** — reportar errores y proponer mejoras
+- 🔀 **Pull Requests** — aportar cambios
+- ⭐ **Stars** — si te sirve, danos una estrella
 
 ---
 
 ## 📜 Licencia y atribución
 
-Antes de reutilizar o distribuir el contenido, consulta la licencia del repositorio, si existe, y las condiciones aplicables a cada recurso.
+Antes de reutilizar o distribuir el contenido, consulta la [licencia del repositorio](./LICENSE).
 
-Cuando contribuyas con material propio, incluye el autor y las referencias necesarias. Si utilizas contenido de otras personas, respeta su licencia y atribuye la fuente cuando corresponda.
+Cuando contribuyas, **incluye tu autoría**. Cuando uses contenido de otros, **respeta su licencia** y atribuye la fuente.
 
----
-
-## 🚀 ¡Empieza por aquí!
-
-Si acabas de llegar, te recomendamos esta ruta:
-
-1. 📚 Explora los [apuntes](./apuntes/README.md).
-2. 💻 Resuelve algunos [ejercicios](./ejercicios/README.md).
-3. ⚡ Aprende trucos con la [guía de Java](./apuntes/java/truquitos.md).
-4. 🧰 Mejora tu entorno con [El Setup del Programador](./apuntes/setup/setup-del-programador.md).
-5. 🎨 Descubre la [Santa Trinidad de VS Code](./apuntes/setup/santa-trinidad-vscode.md).
-6. 🤝 Revisa cómo [contribuir](./CONTRIBUTING.md) y comparte tu primer aporte.
+**Apuntes y documentación:** CC BY-SA 4.0
+**Código y ejercicios:** MIT
 
 ---
 
-**Programación Rápida — Aprendemos juntos, programamos juntos y crecemos juntos.** 💙
+<div align="center">
+
+## 🚀 ¡Empieza ahora!
+
+**Elige por dónde entrar:**
+
+[![Empezar por fundamentos](https://img.shields.io/badge/📚%20Empezar-Fundamentos-blue?style=for-the-badge)](./apuntes/fundamentos/README.md)
+[![Ver ejercicios](https://img.shields.io/badge/🧪%20Ver-Ejercicios-green?style=for-the-badge)](./ejercicios/README.md)
+[![Explorar apuntes](https://img.shields.io/badge/📖%20Explorar-Apuntes-orange?style=for-the-badge)](./apuntes/README.md)
+
+---
+
+### 💙 Diccionario-Dev
+
+_Aprendemos juntos, programamos juntos y crecemos juntos._
 
 _Escribe código, rompe cosas, encuentra el error, aprende y repite._ 😂
+
+⭐ **Si te sirve este repo, dale una estrella. Ayuda un montón.**
+
+</div>
