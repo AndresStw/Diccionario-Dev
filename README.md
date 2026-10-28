@@ -147,6 +147,13 @@ console.log("Hola, mundo");
 ```
 
 ---
+## 🏆 Reconocimiento
+
+Diccionario-Dev fue incluido en el [**XERJ Corpus Hub**](https://hub.xerj.org/contributors/AndresStw), un índice abierto de soluciones de código que los agentes de IA consultan como referencia. Los ejercicios en C# y Java quedan disponibles con atribución, bajo la licencia MIT del repositorio.
+
+📄 [Ver Diccionario-Dev en el Hub](https://hub.xerj.org/corpus/andresstw--diccionario-dev)
+
+---
 
 ## 🤝 ¿Cómo colaborar?
 
